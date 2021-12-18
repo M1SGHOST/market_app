@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "923285203407",
+    "project_id": "market-app-629ed",
+    "storage_bucket": "market-app-629ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923285203407:android:73b9b5a28af2571da3caba",
+        "android_client_info": {
+          "package_name": "com.itsharks.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923285203407-hjud9uttuvmrblbboh07b615cf21v1ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyubF1jTyYt0SbhKYqCSB2ee_bmDHIVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923285203407-hjud9uttuvmrblbboh07b615cf21v1ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923285203407-sm42fbu3jnfj63n59np8mvtvv6t02kmq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itsharks.market"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
